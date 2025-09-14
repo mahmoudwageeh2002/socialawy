@@ -5,7 +5,7 @@ import Icon from 'react-native-vector-icons/Feather';
 import FeedScreen from '../features/feed/Feed';
 import ChatScreen from '../features/chat/Chat';
 import ProfileScreen from '../features/profile/Profile';
-import { Feather } from '@expo/vector-icons';
+// import { Feather } from '@expo/vector-icons';
 
 const Tab = createBottomTabNavigator();
 
